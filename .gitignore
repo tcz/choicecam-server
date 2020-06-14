@@ -139,3 +139,6 @@ config/*
 
 output/*
 !output/.gitkeep
+
+# Pycharm
+.idea
