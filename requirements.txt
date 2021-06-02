@@ -35,4 +35,4 @@ s3transfer==0.3.3
 shellescape==3.8.1
 six==1.14.0
 ssdpy==0.2.4
-urllib3==1.25.9
+urllib3==1.26.5
