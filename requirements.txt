@@ -17,7 +17,7 @@ msrest==0.6.14
 Naked==0.1.31
 oauthlib==3.1.0
 pathtools==0.1.2
-Pillow==7.1.2
+Pillow==9.0.0
 protobuf==3.12.2
 psutil==5.7.0
 pyasn1==0.4.8
